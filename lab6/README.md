@@ -4,7 +4,6 @@
 - **Course**: Software Engineering Lab (SE-LAB)
 - **Lab Assignment**: Lab 6 — Code and Branch Coverage Analysis
 - **Assigned Repository**: [SETAPESU26/L6_L7_36_highway_toll](https://github.com/SETAPESU26/L6_L7_36_highway_toll)
-- **Destination Repository**: [Ganesh-Aroda-C/SE-LAB](https://github.com/Ganesh-Aroda-C/SE-LAB)
 - **Target Application**: `highway_toll.py`
 
 ---
