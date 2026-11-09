@@ -1,0 +1,11 @@
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+*.json
+*.pyc
+
+# Environments
+venv/
+.venv/
+env/
