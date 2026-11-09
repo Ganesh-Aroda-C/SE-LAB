@@ -4,7 +4,6 @@
 - **Course**: Software Engineering Lab (SE-LAB)
 - **Assignment**: Lab 5 — Static Code Analysis
 - **Assigned Repository**: [SETAPESU26/L5_36_smart_home](https://github.com/SETAPESU26/L5_36_smart_home)
-- **Destination Repository**: [Ganesh-Aroda-C/SE-LAB](https://github.com/Ganesh-Aroda-C/SE-LAB)
 - **Target File**: `smart_home.py`
 
 ---
